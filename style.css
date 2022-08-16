@@ -9,7 +9,7 @@
 
 .container {
     width: 100vw;
-    height: 100vh;
+    height: 92vh;
     background: #140003;
     display: flex;
     justify-content: center;
@@ -58,7 +58,7 @@ form .result {
     color: rgb(155, 20, 233);
     font-weight: bolder;
 }
-.copyright {
+footer .copyright {
     position: absolute;
     bottom: 0;
     width: 100vw;
@@ -70,7 +70,7 @@ form .result {
     color: #ffffff;
 }
 
-.copyright a {
+footer .copyright a {
     color: #140003;
     text-decoration: none;
 }
