@@ -38,29 +38,33 @@ form .result {
     box-shadow: 0 0 5px #140003;
     text-align: center;
 }
-.title_label{
+
+.title_label {
     color: #140003;
     font-weight: 600;
 }
-.red_label{
+
+.red_label {
     color: rgb(239, 11, 11);
     font-weight: bolder;
 }
-.green_label{
+
+.green_label {
     color: rgb(82, 206, 37);
     font-weight: bolder;
 }
-.blue_label{
+
+.blue_label {
     color: rgb(0, 145, 255);
     font-weight: bolder;
 }
-.alpha_label{
+
+.alpha_label {
     color: rgb(155, 20, 233);
     font-weight: bolder;
 }
+
 footer .copyright {
-    position: absolute;
-    bottom: 0;
     width: 100vw;
     height: 8vh;
     background: #B12996;
